@@ -1,1 +1,1 @@
-# SDGAI_C3659C_Labds_Crafting
+# This is the crafting folder for C3659C Labs
